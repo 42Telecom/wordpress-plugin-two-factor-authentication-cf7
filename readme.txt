@@ -2,7 +2,7 @@
 Contributors: fortytwotele
 Tags: 2fa, Two factor authentication, 2 factor authentication,  2 step authentication, 2-Factor, 2-step verification, login, register, contact form 7, cf7
 Requires at least: 4.4
-Tested up to: 4.6
+Tested up to: 5.6
 Stable tag: 1.0.0
 License: MIT
 License URI: https://opensource.org/licenses/MIT
